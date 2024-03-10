@@ -1,0 +1,297 @@
+.backgroundIcon,
+.callScript1 {
+  position: relative;
+  max-width: 100%;
+}
+.backgroundIcon {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-11xl);
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.callScript1 {
+  margin: 0;
+  width: 913.4px;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.loremIpsumDolor {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.blankLine,
+.egestasAmetFermentum {
+  margin: 0;
+}
+.loremIpsumDolorContainer {
+  width: 913.4px;
+  height: 245px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 157.4%;
+  color: var(--color-gray-200);
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.callScript,
+.frameFirstNamePhoneParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.callScript {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  align-items: flex-start;
+  padding: var(--padding-35xl) 185.1999999999971px var(--padding-85xl);
+  box-sizing: border-box;
+  gap: 41px 0;
+  font-size: var(--font-size-31xl);
+}
+.frameFirstNamePhoneParent {
+  align-items: flex-end;
+  gap: 88px 0;
+}
+.frequentlyAskedQuestions {
+  margin: 0;
+  width: 671px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.faq,
+.frameParent {
+  display: flex;
+  max-width: 100%;
+}
+.faq {
+  width: 1264.4px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+}
+.frameParent {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 99px 0;
+}
+.faq1,
+.faq2,
+.faq3,
+.faq4,
+.faq5,
+.faq6,
+.faq7,
+.faq8,
+.faqParent {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.faq1,
+.faq2,
+.faq3,
+.faq4,
+.faq5,
+.faq6,
+.faq7,
+.faq8 {
+  border: 0;
+  background-color: var(--color-whitesmoke-400);
+  height: 173px;
+  width: 259px;
+  outline: 0;
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-50xl) var(--padding-74xl);
+  font-family: var(--font-nunito);
+  font-weight: 600;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  min-width: 104px;
+}
+.faqParent {
+  align-self: stretch;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: var(--padding-0) 3.637978807091713e-12px var(--padding-8xl)
+    var(--padding-0);
+  gap: 44px 33.63px;
+  min-height: 444px;
+}
+.aICopilot,
+.aICopilotWrapper,
+.frameWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.aICopilot {
+  background-color: var(--dark-theme-gray-0);
+  overflow: hidden;
+  align-items: flex-start;
+  padding: var(--padding-41xl) var(--padding-21xl);
+}
+.aICopilotWrapper,
+.frameWrapper {
+  align-items: center;
+}
+.frameWrapper {
+  background-color: var(--color-whitesmoke-400);
+  overflow: hidden;
+  align-items: flex-start;
+  padding: var(--padding-25xl) var(--padding-21xl) var(--padding-24xl);
+}
+.notepad {
+  margin: 0;
+  width: 204px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.callNotes {
+  width: 1274.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frameGroup,
+.topMenuFrame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 71px 0;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+}
+.topMenuFrame {
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-6xl);
+  box-sizing: border-box;
+  gap: 204px 0;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-nunito);
+}
+@media screen and (max-width: 1200px) {
+  .callScript {
+    padding-left: var(--padding-73xl);
+    padding-right: var(--padding-73xl);
+    box-sizing: border-box;
+  }
+  .topMenuFrame {
+    gap: 102px 0;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .callScript1,
+  .frequentlyAskedQuestions,
+  .notepad {
+    font-size: var(--font-size-21xl);
+    line-height: 44px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .callScript {
+    gap: 20px 0;
+    padding: var(--padding-16xl) var(--padding-27xl) var(--padding-49xl);
+    box-sizing: border-box;
+  }
+  .frameFirstNamePhoneParent {
+    gap: 44px 0;
+  }
+  .frameParent {
+    gap: 49px 0;
+  }
+  .faqParent {
+    gap: 44px 17px;
+  }
+  .aICopilot {
+    padding-top: var(--padding-20xl);
+    padding-bottom: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+  .aICopilotWrapper {
+    gap: 37px 0;
+  }
+  .frameWrapper {
+    padding-top: var(--padding-10xl);
+    padding-bottom: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+  .frameGroup {
+    gap: 35px 0;
+  }
+  .topMenuFrame {
+    gap: 51px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .callScript1 {
+    font-size: var(--font-size-11xl);
+    line-height: 33px;
+  }
+  .loremIpsumDolorContainer {
+    font-size: var(--font-size-lg);
+    line-height: 28px;
+  }
+  .callScript {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .frameFirstNamePhoneParent {
+    gap: 22px 0;
+  }
+  .frequentlyAskedQuestions {
+    font-size: var(--font-size-11xl);
+    line-height: 33px;
+  }
+  .frameParent {
+    gap: 25px 0;
+  }
+  .aICopilotWrapper {
+    gap: 18px 0;
+  }
+  .notepad {
+    font-size: var(--font-size-11xl);
+    line-height: 33px;
+  }
+  .frameGroup {
+    gap: 18px 0;
+  }
+  .topMenuFrame {
+    gap: 25px 0;
+  }
+}
