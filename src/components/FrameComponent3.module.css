@@ -1360,7 +1360,7 @@
   row-gap: 20px;
 }
 .frameWithTextWrapper {
-  width: 1208.2px;
+  /* width: 1208.2px; */
   padding: var(--padding-0) var(--padding-14xl) var(--padding-0)
     var(--padding-13xl);
   box-sizing: border-box;
